@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/style.css">
+	<title>Task-List</title>
+</head>
+<body>
+	<div id="root">
+		<header class="header">
+			<h1 class="title">Just Do It</h1>
+		</header>
+		<section class="wrapper">
+			<div class="first-row">
+				<button class="app-btn btn_del-all">Delete All</button>
+				<button class="app-btn btn_del-last">Delete Last</button>
+				<input type="text" class="enter-text" id="description-task" placeholder="Enter task..." />
+				<button id="add-btn" class="app-btn">Add</button>
+			</div>
+			<div class="second-row">
+				<p class="task-count remain-list-count">All :</p>
+				<p class="task-count completed-list-count" >Completed :</p>
+				<button id="show-all" class="app-btn show">Show All</button>
+				<button id="show-completed" class="app-btn show">Show Completed</button>
+				<input type="text" class="search-text" onkeyup="searchInList()" id="search-task" placeholder="Search..." />
+			</div>
+				<ul class="tasks">
+				</ul>
+		</section>
+	</div>
+	<script src="script/script.js"></script>
+</body>
+</html>
