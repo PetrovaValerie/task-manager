@@ -7,9 +7,7 @@
   
 Task Manager App using vanilla JavaScript
 
-![Screen page][screen]
-
-[screen]: img/app.png
+![](img/app.png)
   
 </div>
   
