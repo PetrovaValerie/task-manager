@@ -22,6 +22,6 @@ Task Manager App using vanilla JavaScript
 
 - search for tasks
 
-- actions have been saved in localStorage
+- actions have been saved in the localStorage
 
 </div>
