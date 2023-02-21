@@ -2,6 +2,17 @@
 <div align="center">
 
 # <a href='https://github.com/PetrovaValerie/task-manager'> Task Manager </a> 
+
+  <!-- DESCRIPTION -->
+  
+Task Manager App using vanilla JavaScript
+
+![Screen page][screen]
+
+[screen]: img/app.png
+  
+</div>
+  
   
 <div align="left">
 
@@ -14,15 +25,3 @@
 - actions have been saved in localStorage
 
 </div>
-  <!-- DESCRIPTION -->
-  
-Task Manager App using vanilla JavaScript
-
-![Screen page][screen]
-
-[screen]: img/app.png
-  
-</div>
-
-  
-
