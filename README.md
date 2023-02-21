@@ -19,7 +19,7 @@ All actions have been saved in the localStorage.
 Task Manager App using vanilla JavaScript
    
 <!--   <img src="img/overview.png" alt="TaskTrackerImg" width="875" height="665" align="center"/> -->
-  <img src="img/overview.png" alt="TaskTrackerImg" width="705" height="515" align="center"/>
+  <img src="img/overview.png" alt="TaskTrackerImg" width="705" height="565" align="center"/>
 </div>
   
   
