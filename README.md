@@ -1,20 +1,8 @@
-
-<div align="center">
-
 # <a href='https://github.com/PetrovaValerie/task-manager'> Task Manager </a> 
 
   <!-- DESCRIPTION -->
   
-Task Manager App using vanilla JavaScript
-  
-  
-  <img src="img/app.png" alt="TaskTrackerImg" width="875" height="665" align="center"/>
-</div>
-  
-  
-<div align="left">
-
-  The user can:
+The user can:
 
 - track tasks
 
@@ -26,4 +14,13 @@ Task Manager App using vanilla JavaScript
 
 All actions have been saved in the localStorage. 
 
+<div align="center">
+  
+Task Manager App using vanilla JavaScript
+   
+  <img src="img/app.png" alt="TaskTrackerImg" width="875" height="665" align="center"/>
+  
 </div>
+  
+  
+
