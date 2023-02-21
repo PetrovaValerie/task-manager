@@ -6,7 +6,9 @@
   <!-- DESCRIPTION -->
   
 Task Manager App using vanilla JavaScript
-  <img src="img/app.png" alt="TaskTrackerImg" width="895" height="665" align="center"/>
+  
+  
+  <img src="img/app.png" alt="TaskTrackerImg" width="875" height="665" align="center"/>
 </div>
   
   
