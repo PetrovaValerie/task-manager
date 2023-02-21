@@ -7,7 +7,7 @@
   
 Task Manager App using vanilla JavaScript
 
-![](img/app.png)
+![](img/app.png | width=100)
   
 </div>
   
