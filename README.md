@@ -11,9 +11,11 @@ Task Manager App using vanilla JavaScript
 
 [screen]: img/app.png
   
+  
+</div>
+<div>
   - the user can track tasks
   - complete / delete tasks
   - search for tasks
   - actions have been saved in localStorage
-  
 </div>
