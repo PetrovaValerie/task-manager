@@ -16,12 +16,16 @@ Task Manager App using vanilla JavaScript
   
 <div align="left">
 
-- the user can track tasks
+  The user can:
+
+- track tasks
 
 - complete / delete tasks
 
-- search for tasks
+- click onto the completed tasks
 
-- actions have been saved in the localStorage
+- search for specific tasks
+
+All actions have been saved in the localStorage. 
 
 </div>
