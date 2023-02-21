@@ -5,13 +5,7 @@
   
 <!-- DESCRIPTION -->
   
-Task Manager App using vanilla JavaScript
-
-![Screen page][screen]
-
-[screen]: img/app.png
-  
-  <div align="left">
+    <div align="left">
     
   - the user can track tasks
     
@@ -22,5 +16,13 @@ Task Manager App using vanilla JavaScript
   - actions have been saved in localStorage
     
   </div>
+  
+Task Manager App using vanilla JavaScript
+
+![Screen page][screen]
+
+[screen]: img/app.png
+  
+
 </div>
 
