@@ -2,6 +2,8 @@
 
   <!-- DESCRIPTION -->
   
+Task Tracker App using vanilla JavaScript
+
 The user can:
 
 - track tasks
@@ -15,8 +17,6 @@ The user can:
 All actions have been saved in the localStorage. 
 
 <div align="center">
-  
-Task Manager App using vanilla JavaScript
    
   <img src="img/app.png" alt="TaskTrackerImg" width="875" height="665" align="center"/>
 </div>
