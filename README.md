@@ -5,7 +5,7 @@
   
 <!-- DESCRIPTION -->
   
-My First Version of ToDo-App using vanilla JavaScript
+Task Manager App using vanilla JavaScript
 
 ![Screen page][screen]
 
