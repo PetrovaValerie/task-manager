@@ -13,8 +13,11 @@ Task Manager App using vanilla JavaScript
   
   <div align="left">
   - the user can track tasks
+    
   - complete / delete tasks
+    
   - search for tasks
+    
   - actions have been saved in localStorage
   </div>
 </div>
