@@ -3,20 +3,17 @@
 
 # <a href='https://github.com/PetrovaValerie/task-manager'> Task Manager </a> 
   
+<div align="left">
 
-  
-    <p align="left">
-    
-      - the user can track tasks
+- the user can track tasks
 
-      - complete / delete tasks
+- complete / delete tasks
 
-      - search for tasks
+- search for tasks
 
-      - actions have been saved in localStorage
-    
-    </p>
-  
+- actions have been saved in localStorage
+
+</div>
   <!-- DESCRIPTION -->
   
 Task Manager App using vanilla JavaScript
@@ -25,6 +22,7 @@ Task Manager App using vanilla JavaScript
 
 [screen]: img/app.png
   
-
 </div>
+
+  
 
