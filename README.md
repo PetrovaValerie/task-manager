@@ -5,17 +5,17 @@
   
 <!-- DESCRIPTION -->
   
-    <div align="left">
+    <p align="left">
     
-  - the user can track tasks
+      - the user can track tasks
+
+      - complete / delete tasks
+
+      - search for tasks
+
+      - actions have been saved in localStorage
     
-  - complete / delete tasks
-    
-  - search for tasks
-    
-  - actions have been saved in localStorage
-    
-  </div>
+    </p>
   
 Task Manager App using vanilla JavaScript
 
