@@ -3,7 +3,7 @@
 
 # <a href='https://github.com/PetrovaValerie/task-manager'> Task Manager </a> 
   
-<!-- DESCRIPTION -->
+
   
     <p align="left">
     
@@ -16,6 +16,8 @@
       - actions have been saved in localStorage
     
     </p>
+  
+  <!-- DESCRIPTION -->
   
 Task Manager App using vanilla JavaScript
 
